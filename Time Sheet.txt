@@ -1,0 +1,19 @@
+# 15-122 Foundamentals of Programming and Computer Science
+# Full Name: Terry Lu
+# Andrew ID: jiatingl
+# Section: A
+# Date: 08/04/2017
+# Homework: Term Project Time Sheet
+
+August 1st: 4 hours -- building the frame of my Game: Main file and Background
+August 2nd: 2 hours -- making Laser Collection and Special Effects Collection
+August 3rd: 2 hours -- making the Color Class, which is a color string that changes color
+August 4th: 3 hours -- Preparing for TP Deliverable #1 
+August 5th: 3 hours -- Writing Email to Mentor(Matt), Aircraft Trail Generate, SpecialEffects run and draw
+August 6th: 3 hours -- Trying to rotate image, Enemyship spawn
+August 7th: 6 hours -- Special effect optimization, ne special effect -- Explosion
+August 8th: 8 hours -- UserInterface, more types of enemy, wrapping up
+August 9th: 3 hours -- Wrapping up, Project video
+
+
+Total Hours Devoted: 34 hours
